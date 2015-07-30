@@ -15,7 +15,7 @@ public class JavaApplication3 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("This is the first attempt to do a commit");
+        System.out.println("This is the first attempt to do a change the content of the program.");
     }
     
 }
