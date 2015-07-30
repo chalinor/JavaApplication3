@@ -17,6 +17,7 @@ public class JavaApplication3 {
     public static void main(String[] args) {
         System.out.println("This is the first attempt to do a change the content of the program.");
         System.out.println("This came from Netbeans");
+        System.out.println("Make sure to commit it before remote pushing the changes");
     }
     
 }
